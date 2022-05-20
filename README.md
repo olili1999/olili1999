@@ -1,16 +1,14 @@
-### Hi there 👋
+### Introduction
+- 👋 Hi, I’m Oliver, a student at the University of Michigan studying Industrial Engineering, Information Science, and Computer Science. 
+- 👀 I’m interested in creating accessible and useful consumer technology products. 
+- 🌱 I’m currently learning web development! 
 
-<!--
-**olili1999/olili1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Links 🔗
+- [Personal Website](http://olili.me)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+olili1999/olili1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
