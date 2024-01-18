@@ -3,9 +3,6 @@
 - 👀 I’m interested in creating accessible and useful consumer technology products. 
 - 🌱 I’m currently learning web development! 
 
-### Links 🔗
-- [Personal Website](http://olili.me)
-
 
 <!---
 olili1999/olili1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
